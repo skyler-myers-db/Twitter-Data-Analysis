@@ -1,0 +1,25 @@
+The total # of occurances for each tag over a four day span:
++-----------------------------------+-----+
+|tag                                |count|
++-----------------------------------+-----+
+|[bitcoin]                          |28914|
+|[dogecoin]                         |14874|
+|[crypto]                           |6014 |
+|[cryptocurrency]                   |2581 |
+|[bitcoin, crypto]                  |2001 |
+|[bitcoin, dogecoin]                |1313 |
+|[bitcoin, cryptocurrency]          |1287 |
+|[cryptocurrency, crypto]           |882  |
+|[dogecoin, cryptocurrency]         |658  |
+|[bitcoin, cryptocurrency, crypto]  |536  |
+|[cryptocurrency, bitcoin, crypto]  |535  |
+|[dogecoin, bitcoin]                |443  |
+|[bitcoin, crypto, dogecoin]        |428  |
+|[cryptocurrency, bitcoin]          |427  |
+|[ToTheMoon ]                       |273  |
+|[bitcoin, crypto, cryptocurrency]  |262  |
+|[crypto, cryptocurrency]           |244  |
+|[dogecoin, bitcoin, cryptocurrency]|232  |
+|[ToTheMoon , dogecoin]             |144  |
+|[cryptocurrency, dogecoin]         |116  |
++-----------------------------------+-----+

@@ -1,0 +1,19 @@
+Proprtion of what people Tweet about when the subject is cryptocurrency:
++---------------------------------+----------+
+|tag                              |proportion|
++---------------------------------+----------+
+|[bitcoin]                        |0.4651    |
+|[dogecoin]                       |0.2393    |
+|[crypto]                         |0.0967    |
+|[cryptocurrency]                 |0.0415    |
+|[bitcoin, crypto]                |0.0322    |
+|[bitcoin, dogecoin]              |0.0211    |
+|[bitcoin, cryptocurrency]        |0.0207    |
+|[cryptocurrency, crypto]         |0.0142    |
+|[dogecoin, cryptocurrency]       |0.0106    |
+|[bitcoin, cryptocurrency, crypto]|0.0086    |
+|[cryptocurrency, bitcoin, crypto]|0.0086    |
+|[dogecoin, bitcoin]              |0.0071    |
+|[bitcoin, crypto, dogecoin]      |0.0069    |
+|[cryptocurrency, bitcoin]        |0.0069    |
++---------------------------------+----------+
