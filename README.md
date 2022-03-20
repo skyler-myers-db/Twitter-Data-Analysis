@@ -12,6 +12,7 @@ The principal focus of this [analysis](https://www.tableau.com/learn/articles/bi
 
 - [Apache Spark 2.4.7](https://spark.apache.org/)
 - [Spark SQL](https://spark.apache.org/sql/)
+- [Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
 - [YARN](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html)
 - [AWS](https://aws.amazon.com/)
 - [AWS S3](https://aws.amazon.com/s3/)
